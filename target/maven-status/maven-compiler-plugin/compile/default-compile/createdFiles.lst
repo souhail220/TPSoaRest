@@ -1,0 +1,6 @@
+com\mycompany\entity\ListEtudiant.class
+com\mycompany\tp1rest\resources\JakartaEE8Resource.class
+com\mycompany\entity\IEtudiantRepositorie.class
+com\mycompany\tp1rest\GestionEtudiant.class
+com\mycompany\tp1rest\JakartaRestConfiguration.class
+com\mycompany\entity\Etudiant.class
